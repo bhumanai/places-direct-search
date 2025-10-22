@@ -1,0 +1,13 @@
+# Node/TypeScript
+node_modules/
+dist/
+.vercel/
+.env
+.env.*
+*.log
+
+# OS/Editor
+.DS_Store
+.idea/
+.vscode/
+*.swp

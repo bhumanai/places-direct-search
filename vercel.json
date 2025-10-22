@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "functions": {
+    "api/**/*.ts": {
+      "runtime": "nodejs20.x"
+    }
+  },
+  "regions": ["fra1", "cdg1", "iad1"],
+  "env": {
+    "OPENAI_MODEL": "gpt-5-mini"
+  }
+}
